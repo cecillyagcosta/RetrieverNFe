@@ -1,0 +1,1 @@
+py C:\BOT\Retriever_NFe\scripts\master_of_puppets\master.py
